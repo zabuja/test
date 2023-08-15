@@ -1,0 +1,6 @@
+{{#user}
+Name: Atanu Ghosh
+Skills: HTML, CSS, reactJS, C++, Python
+email: atagh3344@gmail.com
+{{/user}}
+
